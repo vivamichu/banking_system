@@ -1,6 +1,0 @@
-
-# Ignore everything in the repository
-*
-
-# But allow the specific directory you want to include
-!/banking_system/
